@@ -9,6 +9,16 @@
 * [在线阅读](http://jtn.apachecn.org/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 下载
+
+### NPM
+
+```
+npm install -g jtn-zh
+jtn-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
